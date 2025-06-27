@@ -38,3 +38,4 @@ Step 5: Run the Simulation
 - If the object is within 10 cm, the servo motor opens the gate, and the LED lights up.
 - After 2 seconds of no object detected, the gate automatically closes.
 
+NOTE: If Wokwi cannot be used due to absence of library (such as Servo.h), then use the Arduino UNO in TinkerCad instead to test out the simulation.
