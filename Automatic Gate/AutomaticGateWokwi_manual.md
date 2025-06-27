@@ -16,11 +16,11 @@ Click the purple “+” button and add these parts:
 
 ![image](https://github.com/user-attachments/assets/8802717d-e979-474f-ac85-033000d132ea)
 
-1x ESP32 Dev Board
-1x Ultrasonic Sensor (HC-SR04)
-1x Servo Motor
-1x LED
-1x Resistor (220 ohms) for the LED
+- 1x ESP32 Dev Board
+- 1x Ultrasonic Sensor (HC-SR04)
+- 1x Servo Motor
+- 1x LED
+- 1x Resistor (220 ohms) for the LED
 
 Step 3: Wire the Circuit
 
