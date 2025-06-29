@@ -26,5 +26,6 @@ Follow the Tinkercad guide to simulate it online.
 - Arduino UNO and ESP32
 - Tinkercad Circuits (for simulation)
 - Arduino IDE (for coding and uploading to boards)
-- YouTube Tutorial Video:
+- YouTube Tutorial Video: https://youtu.be/M-zd6rGuct4?si=LzbcqVOWqRsXfgiP
+  
 
